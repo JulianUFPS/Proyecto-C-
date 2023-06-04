@@ -1,0 +1,33 @@
+C:\Users\JULIAN\OneDrive\Escritorio\Proyecto C#\Form Programacion\bin\Debug\Form Programacion.exe.config
+C:\Users\JULIAN\OneDrive\Escritorio\Proyecto C#\Form Programacion\bin\Debug\Form Programacion.exe
+C:\Users\JULIAN\OneDrive\Escritorio\Proyecto C#\Form Programacion\bin\Debug\Form Programacion.pdb
+C:\Users\JULIAN\OneDrive\Escritorio\Proyecto C#\Form Programacion\obj\Debug\Form Programacion.csproj.AssemblyReference.cache
+C:\Users\JULIAN\OneDrive\Escritorio\Proyecto C#\Form Programacion\obj\Debug\Form Programacion.csproj.SuggestedBindingRedirects.cache
+C:\Users\JULIAN\OneDrive\Escritorio\Proyecto C#\Form Programacion\obj\Debug\Form_Programacion.Form1.resources
+C:\Users\JULIAN\OneDrive\Escritorio\Proyecto C#\Form Programacion\obj\Debug\Form_Programacion.Properties.Resources.resources
+C:\Users\JULIAN\OneDrive\Escritorio\Proyecto C#\Form Programacion\obj\Debug\Form Programacion.csproj.GenerateResource.cache
+C:\Users\JULIAN\OneDrive\Escritorio\Proyecto C#\Form Programacion\obj\Debug\Form Programacion.csproj.CoreCompileInputs.cache
+C:\Users\JULIAN\OneDrive\Escritorio\Proyecto C#\Form Programacion\obj\Debug\Form Programacion.exe
+C:\Users\JULIAN\OneDrive\Escritorio\Proyecto C#\Form Programacion\obj\Debug\Form Programacion.pdb
+C:\Users\USUARIO\Downloads\Proyecto C#\Form Programacion\bin\Debug\Form Programacion.exe.config
+C:\Users\USUARIO\Downloads\Proyecto C#\Form Programacion\bin\Debug\Form Programacion.exe
+C:\Users\USUARIO\Downloads\Proyecto C#\Form Programacion\bin\Debug\Form Programacion.pdb
+C:\Users\USUARIO\Downloads\Proyecto C#\Form Programacion\obj\Debug\Form Programacion.csproj.AssemblyReference.cache
+C:\Users\USUARIO\Downloads\Proyecto C#\Form Programacion\obj\Debug\Form Programacion.csproj.SuggestedBindingRedirects.cache
+C:\Users\USUARIO\Downloads\Proyecto C#\Form Programacion\obj\Debug\Form_Programacion.Form1.resources
+C:\Users\USUARIO\Downloads\Proyecto C#\Form Programacion\obj\Debug\Form_Programacion.Properties.Resources.resources
+C:\Users\USUARIO\Downloads\Proyecto C#\Form Programacion\obj\Debug\Form Programacion.csproj.GenerateResource.cache
+C:\Users\USUARIO\Downloads\Proyecto C#\Form Programacion\obj\Debug\Form Programacion.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\Downloads\Proyecto C#\Form Programacion\obj\Debug\Form Programacion.exe
+C:\Users\USUARIO\Downloads\Proyecto C#\Form Programacion\obj\Debug\Form Programacion.pdb
+C:\Users\JULIAN\OneDrive\Escritorio\Proyecto C#\Proyecto\bin\Debug\Form Programacion.exe.config
+C:\Users\JULIAN\OneDrive\Escritorio\Proyecto C#\Proyecto\bin\Debug\Form Programacion.exe
+C:\Users\JULIAN\OneDrive\Escritorio\Proyecto C#\Proyecto\bin\Debug\Form Programacion.pdb
+C:\Users\JULIAN\OneDrive\Escritorio\Proyecto C#\Proyecto\obj\Debug\Form Programacion.csproj.AssemblyReference.cache
+C:\Users\JULIAN\OneDrive\Escritorio\Proyecto C#\Proyecto\obj\Debug\Form Programacion.csproj.SuggestedBindingRedirects.cache
+C:\Users\JULIAN\OneDrive\Escritorio\Proyecto C#\Proyecto\obj\Debug\Form_Programacion.Form1.resources
+C:\Users\JULIAN\OneDrive\Escritorio\Proyecto C#\Proyecto\obj\Debug\Form_Programacion.Properties.Resources.resources
+C:\Users\JULIAN\OneDrive\Escritorio\Proyecto C#\Proyecto\obj\Debug\Form Programacion.csproj.GenerateResource.cache
+C:\Users\JULIAN\OneDrive\Escritorio\Proyecto C#\Proyecto\obj\Debug\Form Programacion.csproj.CoreCompileInputs.cache
+C:\Users\JULIAN\OneDrive\Escritorio\Proyecto C#\Proyecto\obj\Debug\Form Programacion.exe
+C:\Users\JULIAN\OneDrive\Escritorio\Proyecto C#\Proyecto\obj\Debug\Form Programacion.pdb
